@@ -1,3 +1,3 @@
 # testRollback
 
-1. xin chen
+1. XIN chen
